@@ -15,8 +15,5 @@ All of the dificulties expereinced here will be listed in the dificulties sectio
 
 
 ##Autoreply To Missed Calls
-I wonder how this will appear when I type **git commit**
-##Subscription Via SMS
-So Imade more changes on this readmefile to see if i am working in the brach
-added ab=notehr html file
-I also added this live to the branch
+
+
